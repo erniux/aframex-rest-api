@@ -1,3 +1,3 @@
 # Aframex REST API
 
-Projecto Aframex REST API
+Proyecto Aframex REST API

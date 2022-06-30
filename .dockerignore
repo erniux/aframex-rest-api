@@ -1,0 +1,16 @@
+#GIT
+.git
+.gitignore
+
+#DOCKER
+.docker
+
+#PYTHON
+aframex-rest-api/__pycache__/
+aframex-rest-api/*/__pycache__/
+aframex-rest-api/*/*/__pycache__/
+aframex-rest-api/*/*/*/__pycache__/
+.env/
+.venv/
+venv/
+
